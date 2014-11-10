@@ -1,0 +1,16 @@
+package org;
+
+public enum Type
+{
+	ALL,
+	UNDEFINED, 
+	BOMBERMAN, 
+	WEAPONS,
+	TRAP,
+	EXPLOSION,
+	DESTROYABLE_WALL,
+	BONUS,
+	MALUS,
+	MONSTER,
+	ROBOT;
+}
